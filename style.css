@@ -1,15 +1,24 @@
 .container-fluid{
-    background: url(head-1.jpg) no-repeat center center fixed;
+    background: url(images/head-1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;   
-    width: 1350px;
+    width: 1500px;
     height: 400px;
+    padding-top: 15px;
 }
 
-#text-head{
+#jhead-1{
     text-align: center;
-    padding-top: 200px;
-    color: #f7f7f7;
+    padding-top: 220px;
+    color: #0ae4d9;
 }
+
+#card-1{
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(151, 151, 150);
+
+}
+
